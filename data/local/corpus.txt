@@ -1,0 +1,174 @@
+zero one six
+two four six
+three nine eight
+five eight four
+nine one four
+zero five seven
+
+three nine eight
+
+five zero two
+
+six one seven
+
+seven one three
+
+zero three eight
+
+zero seven three
+
+one five nine
+
+two three eight
+
+two six eight
+
+three four seven
+
+five four one
+
+five nine seven
+
+nine six five
+
+nine seven four
+
+two three four
+
+six seven eight
+
+seven eight nine
+
+zero one two
+
+zero four five
+
+one two three
+
+two three four
+
+four five six
+
+six seven eight
+
+seven eight nine
+
+one two three
+
+zero two seven
+
+one two three
+
+one three five
+
+two four six
+
+four five six
+
+five seven nine
+
+six seven eight
+
+seven eight nine
+
+eight two six
+
+zero five two
+
+one five four
+
+two seven three
+
+six eight nine
+
+nine eight seven
+
+zero nine five
+
+one two seven
+
+one eight two
+
+three two one
+
+five three two
+
+zero six nine
+
+zero nine one
+
+one two three
+
+two one seven
+
+four zero nine
+
+four two one
+
+four five six
+
+six eight two
+
+seven six four
+
+seven eight nine
+
+zero seven four
+
+one three seven
+
+two six six
+
+three eight three
+
+three eight nine
+
+four one two
+
+four seven two
+
+five zero six
+
+nine one five
+
+eight five three
+
+zero one two
+
+zero eight three
+
+one two four
+
+one five eight
+
+three four five
+
+six seven eight
+
+seven three six
+
+eight one four
+
+nine five two
+
+nine seven zero
+
+zero five five
+
+one two six
+
+three two four
+
+three three two
+
+five zero four
+
+seven three five
+
+eight six one
+
+eight eight eight
+
+nine five two
+
+nine seven five

@@ -1,0 +1,7 @@
+# sum-tree-stats exp/tri3a/treeacc exp/tri3a/1.treeacc 
+# Started at Mon Nov 27 21:05:49 EST 2017
+#
+sum-tree-stats exp/tri3a/treeacc exp/tri3a/1.treeacc 
+LOG (sum-tree-stats[5.3.1~1-39c8d]:main():sum-tree-stats.cc:88) Wrote summed accs ( 401 individual stats)
+# Accounting: time=0 threads=1
+# Ended (code 0) at Mon Nov 27 21:05:49 EST 2017, elapsed time 0 seconds

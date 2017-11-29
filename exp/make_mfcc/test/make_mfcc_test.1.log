@@ -1,0 +1,20 @@
+# compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.1.scp ark:- | copy-feats --compress=true ark:- ark,scp:/home/haddock_ivp/kaldi/egs/mycorpus/mfcc/raw_mfcc_test.1.ark,/home/haddock_ivp/kaldi/egs/mycorpus/mfcc/raw_mfcc_test.1.scp 
+# Started at Mon Nov 27 21:02:37 EST 2017
+#
+copy-feats --compress=true ark:- ark,scp:/home/haddock_ivp/kaldi/egs/mycorpus/mfcc/raw_mfcc_test.1.ark,/home/haddock_ivp/kaldi/egs/mycorpus/mfcc/raw_mfcc_test.1.scp 
+compute-mfcc-feats --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.1.scp ark:- 
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun012
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun319
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun345
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun416
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun420
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun430
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun617
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun678
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun891
+LOG (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:172) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:173) Processed features for key dotun915
+LOG (compute-mfcc-feats[5.3.1~1-39c8d]:main():compute-mfcc-feats.cc:176)  Done 10 out of 10 utterances.
+LOG (copy-feats[5.3.1~1-39c8d]:main():copy-feats.cc:143) Copied 10 feature matrices.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Mon Nov 27 21:02:38 EST 2017, elapsed time 1 seconds

@@ -1,0 +1,1 @@
+audio cmd.sh conf data exp mfcc online-data.tar.bz2 online_run.sh path.sh src steps utils work online-data/audio/*.wav

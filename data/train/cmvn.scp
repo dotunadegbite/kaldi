@@ -1,0 +1,9 @@
+afika /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:6
+bret /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:250
+dre /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:493
+grace /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:738
+logan /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:983
+nikki /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:1228
+rachel /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:1474
+sam /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:1717
+zack /home/haddock_ivp/kaldi/egs/mycorpus/mfcc/cmvn_train.ark:1961
